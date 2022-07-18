@@ -6,6 +6,7 @@ import Footer from './Footer';
 function App() {
   return (
     <div>
+      
       <TodoForm />
       <TodoList />
       <Footer />
